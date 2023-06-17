@@ -4,9 +4,9 @@
 
 We'll be visualizing volcanoes around the globe.
 
-Most Active Volcanoes since 1800.png![image](https://github.com/Ds2023/Data_visualizations_matplotlib/assets/122088127/39b2ecf3-024f-490e-8dec-f02f1ab2bd95)
+Most Active Volcanoes since 1800.png ![volcanic](https://github.com/Ds2023/Data_visualizations_Python/blob/main/Images/Most%20Active%20Volcanoes%20since%201800.png)
 
-A visual of volcanoes around the world_2.png![image](https://github.com/Ds2023/Data_visualizations_matplotlib/assets/122088127/a72155e0-81a4-447b-a82b-b283091abd4f)
+A visual of volcanoes around the world_2.png![image](https://github.com/Ds2023/Data_visualizations_Python/blob/main/Images/A%20visual%20of%20volcanoes%20around%20the%20world_2%20(1).png)
 
 # GDPR Visualization
 
