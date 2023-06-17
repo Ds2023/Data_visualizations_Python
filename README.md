@@ -12,7 +12,7 @@ A visual of volcanoes around the world_2.png![image](https://github.com/Ds2023/D
 
 Exploring the impact of GDPR violations in Europe on various companies.
 
-Companies with the Highest Fines Paid.png![image](https://github.com/Ds2023/Data_visualizations_matplotlib/assets/122088127/e9e72797-78cf-446b-9f6a-1e0112428b28)
+Companies with the Highest Fines Paid.png![image](https://github.com/Ds2023/Data_visualizations_Python/blob/main/Images/Companies%20with%20the%20Highest%20Fines%20Paid.png)
 
 # Sports Analytics
 
